@@ -1,0 +1,25 @@
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.csproj.AssemblyReference.cache
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.Form1.resources
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.Properties.Resources.resources
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.csproj.GenerateResource.cache
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.csproj.CoreCompileInputs.cache
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\bin\Debug\RobotXYZMenu.exe.config
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\bin\Debug\RobotXYZMenu.exe
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\bin\Debug\RobotXYZMenu.pdb
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.newRobot.resources
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.exe
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.pdb
+C:\Users\MHolmes10\source\repos\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.EditRobot.resources
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.csproj.AssemblyReference.cache
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.EditRobot.resources
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.Form1.resources
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.newRobot.resources
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.Properties.Resources.resources
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.csproj.GenerateResource.cache
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.csproj.CoreCompileInputs.cache
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.exe
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.pdb
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\bin\Debug\RobotXYZMenu.exe.config
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\bin\Debug\RobotXYZMenu.exe
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\bin\Debug\RobotXYZMenu.pdb
+C:\Users\MHolmes10\OneDrive - UCLan\RobotXYZMenu\RobotXYZMenu\obj\Debug\RobotXYZMenu.EuclidianForm.resources

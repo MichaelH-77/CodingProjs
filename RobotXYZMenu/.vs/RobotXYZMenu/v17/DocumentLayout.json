@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\robotxyzmenu\\euclidianform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|solutionrelative:robotxyzmenu\\euclidianform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\robotxyzmenu\\newrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|solutionrelative:robotxyzmenu\\newrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\robotxyzmenu\\editrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|solutionrelative:robotxyzmenu\\editrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|c:\\users\\mholmes10\\onedrive - uclan\\robotxyzmenu\\robotxyzmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|solutionrelative:robotxyzmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\robotxyzmenu\\euclidianform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|solutionrelative:robotxyzmenu\\euclidianform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\robotxyzmenu\\editrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|solutionrelative:robotxyzmenu\\editrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\robotxyzmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|solutionrelative:robotxyzmenu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\robotxyzmenu\\newrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3C7B502-1E64-4200-A29A-28E5E9093797}|RobotXYZMenu\\RobotXYZMenu.csproj|solutionrelative:robotxyzmenu\\newrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "RobotXYZMenu\\Form1.cs",
+              "ToolTip": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\Form1.cs [Design]",
+              "RelativeToolTip": "RobotXYZMenu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:53:39.607Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\Form1.cs",
+              "RelativeDocumentMoniker": "RobotXYZMenu\\Form1.cs",
+              "ToolTip": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\Form1.cs",
+              "RelativeToolTip": "RobotXYZMenu\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:13:14.151Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditRobot.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\EditRobot.cs",
+              "RelativeDocumentMoniker": "RobotXYZMenu\\EditRobot.cs",
+              "ToolTip": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\EditRobot.cs [Design]",
+              "RelativeToolTip": "RobotXYZMenu\\EditRobot.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:43:51.594Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditRobot.cs",
+              "DocumentMoniker": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\EditRobot.cs",
+              "RelativeDocumentMoniker": "RobotXYZMenu\\EditRobot.cs",
+              "ToolTip": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\EditRobot.cs",
+              "RelativeToolTip": "RobotXYZMenu\\EditRobot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:45:20.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "newRobot.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\newRobot.cs",
+              "RelativeDocumentMoniker": "RobotXYZMenu\\newRobot.cs",
+              "ToolTip": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\newRobot.cs [Design]",
+              "RelativeToolTip": "RobotXYZMenu\\newRobot.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:10:23.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "newRobot.cs",
+              "DocumentMoniker": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\newRobot.cs",
+              "RelativeDocumentMoniker": "RobotXYZMenu\\newRobot.cs",
+              "ToolTip": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\newRobot.cs",
+              "RelativeToolTip": "RobotXYZMenu\\newRobot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:16:19.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EuclidianForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\EuclidianForm.cs",
+              "RelativeDocumentMoniker": "RobotXYZMenu\\EuclidianForm.cs",
+              "ToolTip": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\EuclidianForm.cs [Design]",
+              "RelativeToolTip": "RobotXYZMenu\\EuclidianForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:17:15.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EuclidianForm.cs",
+              "DocumentMoniker": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\EuclidianForm.cs",
+              "RelativeDocumentMoniker": "RobotXYZMenu\\EuclidianForm.cs",
+              "ToolTip": "C:\\Users\\MHolmes10\\OneDrive - UCLan\\RobotXYZMenu\\RobotXYZMenu\\EuclidianForm.cs",
+              "RelativeToolTip": "RobotXYZMenu\\EuclidianForm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:41:11.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

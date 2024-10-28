@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotXYZMenu", "RobotXYZMenu\RobotXYZMenu.csproj", "{D3C7B502-1E64-4200-A29A-28E5E9093797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C7B502-1E64-4200-A29A-28E5E9093797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C7B502-1E64-4200-A29A-28E5E9093797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C7B502-1E64-4200-A29A-28E5E9093797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C7B502-1E64-4200-A29A-28E5E9093797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A1A2C06-D444-4FAC-8E1C-A2A029A8D94B}
+	EndGlobalSection
+EndGlobal
